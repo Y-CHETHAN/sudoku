@@ -22,6 +22,12 @@ Search function is defined to find the final solution to a given sudoku puzzle.
 
 ## PROGRAM:
 ```
+/*
+Developed by        : Y Chethan
+Registration Number : 212220230008
+*/
+```
+```
 def cross(x,y):
     return[s+b for s in x for b in y]
     
